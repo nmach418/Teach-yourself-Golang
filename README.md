@@ -8,13 +8,13 @@
 
 *Why does one use it? It is more efficient than languages like Python and easier to use and understand than languages like C and C++.
 
-*What are the alternatives? 
+*What are the alternatives? Other Server-side languages... e.g., C++, Java, etc
 
-*What is it similar to?
+*What is it similar to? Not sure...
 
 *What is the history of this technology? It was created by Google in 2009 by Robert Griesemer, Rob Pike, and Ken Thompson (Wikipedia)
 
-*Who built it and why? The individuals noted above
+*Who built it and why? The individuals noted above - because they didn't like C++ - they feel it is overly complex and burdensome.
 
 *Who is maintaining it? Google
 
@@ -34,3 +34,5 @@
 3) How do you copy a slice, a map, and an interface?
 
 Refer to the following URL for answers: https://www.toptal.com/go/interview-questions
+
+*Note that Docker and Kubernetes are written in Go and that it seems to be used extensively in the cloud.
